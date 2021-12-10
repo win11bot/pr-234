@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.e30c9d29.chunk.css",
+    "main.css": "/static/css/main.3393ca3f.chunk.css",
     "main.js": "/static/js/main.02c48ad4.chunk.js",
     "main.js.map": "/static/js/main.02c48ad4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.096fc5c7.js",
@@ -8,7 +8,7 @@
     "static/js/2.2c5730a2.chunk.js": "/static/js/2.2c5730a2.chunk.js",
     "static/js/2.2c5730a2.chunk.js.map": "/static/js/2.2c5730a2.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.e30c9d29.chunk.css.map": "/static/css/main.e30c9d29.chunk.css.map",
+    "static/css/main.3393ca3f.chunk.css.map": "/static/css/main.3393ca3f.chunk.css.map",
     "static/js/2.2c5730a2.chunk.js.LICENSE.txt": "/static/js/2.2c5730a2.chunk.js.LICENSE.txt",
     "static/media/tabs2.scss": "/static/media/server.99e1fcd2.jpg",
     "static/media/wnapp.scss": "/static/media/spotify.e0e1dc5c.ttf"
@@ -16,7 +16,7 @@
   "entrypoints": [
     "static/js/runtime-main.096fc5c7.js",
     "static/js/2.2c5730a2.chunk.js",
-    "static/css/main.e30c9d29.chunk.css",
+    "static/css/main.3393ca3f.chunk.css",
     "static/js/main.02c48ad4.chunk.js"
   ]
 }
